@@ -1,6 +1,6 @@
 # Vault Smart Contract
 
-This repository contains the Vault contract implemented in Solidity. The contract manages ERC721 Non-Fungible Tokens (NFTs) and issues ERC20 tokens. The tokens are fractionalized shares of the underlying (e.g. deposited NFTs). This contract is MVP for The Edge. While The Edge vision also includes a bridge to the L2 chain to facilitate public share trading with low fees, this MVP implementation focuses on creating a vault on Ethereum L1. 
+This repository contains the Vault contract implemented in Solidity. The contract manages ERC721 Non-Fungible Tokens (NFTs) and issues ERC20 tokens. The tokens are fractionalized shares of the underlying (e.g. deposited NFTs). This contract is MVP for The Edge. While The Edge vision also includes a bridge to the L2 chain to facilitate public share trading with low fees, this MVP implementation focuses on creating a vault on Ethereum L1. Contract was coded and deployed on Goerli ETH testnet using Remix IDE. The repository above is an export from the Remix IDE.
 
 ## Contract Description
 
